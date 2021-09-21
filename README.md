@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I do many childish thing which I don't wanna do:3
 -->
-I am a student of Bangladesh University of Engineering Technology in undergraduate program. My objective is to take up challenges and show them. I am putting all my efforts for the growth of my skills. The key strength that I possess includes,
-I have good communication skill and I love working with others. moreover, during my studies I have developed excellent problem solving skills as well. Please do connect me if you interested
+I am a student of Bangladesh University of Engineering Technology in undergraduate program. My objective is to take up challenges and show them. I am putting all my efforts for the growth of my skills. 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tareq57)](https://github.com/anuraghazra/github-readme-stats)
