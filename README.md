@@ -1,7 +1,6 @@
 
-### Hi there 👋, Tareq Ahmed
 ![Student, Competitive Programmer and Backend Developer](https://lh3.googleusercontent.com/X4JjAqnvBvhHMJZKxPGbNmCzkITnkAGR55NmHjedCNrFLxFvAIM6PUlzLHybiq76Ukdt=s800)
-
+### Hi there 👋
 I am a student of Bangladesh University of Engineering Technology in undergraduate program. My objective is to take up challenges and show them. I am putting all my efforts for the growth of my skills.
 
 Skills: C / C++ / JAVA /Python/ HTML / CSS
