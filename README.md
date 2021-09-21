@@ -22,4 +22,5 @@ I am a student of Bangladesh University of Engineering Technology in undergradua
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tareq57&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## ACTIVITY GRAPH: 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tareq57&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tareq57)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
