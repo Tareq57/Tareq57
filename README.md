@@ -18,7 +18,7 @@ I am a student of Bangladesh University of Engineering Technology in undergradua
 ## LANGUAGES:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50">   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50"><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
 ## MOST USED LANGUAGE:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq57&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq57&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
