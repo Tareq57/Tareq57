@@ -16,7 +16,7 @@ I am a student of Bangladesh University of Engineering Technology in undergradua
 ## CONTACT WITH ME:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' padding=10px>](https://github.com/https://github.com/Tareq57)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' padding = 10px>](https://www.linkedin.com/in/https://www.linkedin.com/in/tareq-ahmed-512b451b1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30' padding = 10px>](https://www.facebook.com/https://www.facebook.com/mimi.cry.524)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30' padding=10px>](https://stackoverflow.com/users/https://stackoverflow.com/users/15331866/tareq578)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='30' padding=10px>](https://codeforces.com/profile/tareq578)  
 ## LANGUAGES:
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100">
 
 
 
