@@ -1,4 +1,4 @@
-![Student, Competitive Programmer and Backend Developer](https://lh3.googleusercontent.com/X4JjAqnvBvhHMJZKxPGbNmCzkITnkAGR55NmHjedCNrFLxFvAIM6PUlzLHybiq76Ukdt=s700)
+![Student, Competitive Programmer and Backend Developer](https://lh3.googleusercontent.com/MBvEjghbQrfxRGgSSk4u5kYn8MO1e9aft5QRVb8ZIQjkrgjHfrpawSPMSHC_a-9VFM8wDg=s170)
 ### Hi there 👋
 I am a student of Bangladesh University of Engineering Technology in undergraduate program. My objective is to take up challenges and show them. I am putting all my efforts for the growth of my skills.
 
